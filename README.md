@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Conor-Dunne
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently Express / NodeJs
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
