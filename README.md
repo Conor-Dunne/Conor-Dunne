@@ -1,6 +1,6 @@
 # Greetings! Welcome to my GitHub  ✨😃
 
-## My name is Conor Dunne and currently learning to be a Full Stack Web Developer, proficient in Javascript, React. You can connect with me via:
+## My name is Conor Dunne and I'm currently learning to be a Full Stack Web Developer, proficient in Javascript, React. You can connect with me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-conordunne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conordunne1/)](https://www.linkedin.com/in/conordunne1//)
 
