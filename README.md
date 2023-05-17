@@ -2,9 +2,7 @@
 
 ## My name is Conor Dunne and currently learning to be a Full Stack Web Developer, proficient in Javascript, React. You can connect with me via:
 
-<a href="https://www.linkedin.com/in/conordunne1/" target="_blank">
-  <img src="https://img.shields.io/badge/-conordunne-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-conordunne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conordunne1/)](https://www.linkedin.com/in/conordunne1//)
 
 
 
