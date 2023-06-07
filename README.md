@@ -26,7 +26,7 @@
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=5E5C5C)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Conor-Dunne&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conor-Dunne&hide=TeX&layout=compact)
 
 
