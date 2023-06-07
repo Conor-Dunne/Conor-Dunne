@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-conordunne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conordunne1/)](https://www.linkedin.com/in/conordunne1//)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conor-Dunne&hide=TeX&layout=compact)
 
 ### 🚀💻 Technologies & Tools
 
@@ -25,8 +25,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=5E5C5C)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conor-Dunne&hide=TeX&layout=compact)
-
-
